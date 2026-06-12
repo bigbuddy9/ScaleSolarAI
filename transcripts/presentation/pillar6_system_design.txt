@@ -1,0 +1,82 @@
+PILLAR 6: System Design
+Source: Presentation Modules
+
+GOAL: Prospect comes out of this pillar thinking: "This system has been built specifically for me, my home, my bill, my future. This is not some copy-paste generic quote. This is tailored directly for my usage, my roof, my home."
+
+People are happy to pay for a solution that has been perfectly tailored for them. That is the whole narrative of this pillar.
+
+Always sell the biggest system possible. No one is happy when they still get a bill. If they can stomach the cost, they will be happy with a bigger system that eliminates the bill entirely.
+
+SLIDE 1 - Seasonal Production Chart:
+
+"It's obviously solar seasonal. In summer you're going to get a lot more generation than in winter - it ends up having a little dip. What we like to do - and just to check we're on the same page - we actually design our systems to ensure we comprehensively cover your energy usage the whole year round. Not just in summer, but we also want to cover you during winter."
+
+"When we get to your design, we're actually going to show you your own specific production chart for the system our technicians have built for you. So you can see the exact logic behind why they've designed it this way and that it properly encompasses your usage. Everything we do is done for a very intentional reason. It's not just some generic design."
+
+After they acknowledge: "Yeah, that's perfect guys, because it actually 100% lines up with long-term thinking and considering your future needs."
+
+SLIDE 2 - Upsizing Rationale:
+
+Quickly run through benefits of a comprehensive system. Reference anything they mentioned earlier in the call:
+- Kids at home = more usage
+- EV mentioned = "Great idea guys, because it's going to benefit that specifically"
+- Work from home = daytime usage
+
+Then jump into the design.
+
+THE DESIGN WALKTHROUGH:
+
+Start by anchoring it to their actual usage:
+"Guys, what has this design been built off? First thing - let's look at your bill. This is your usage from the past year. What would you say your average usage per month would be? You can see I'm drawing a line through it - would you guys say that's about [X] kilowatts?"
+
+Get them to confirm the number. Then:
+"Perfect. So what we're going to look to do is build a system that will cover you even [X] kilowatts in the winter, to make sure we're covering your usage year-round. Does that make sense?"
+
+Then jump into the actual design:
+"So this is the design that the technicians have actually designed specifically for your property. They've done a lot of things for a very intentional reason - I'll explain that now."
+
+Walk them through:
+- Number of panels and wattage (e.g. "23 x 440W all-black Longi panels")
+- Panel placement on each roof face
+- Total system size
+- Reason for each decision
+
+HOW TO FRAME ANY ROOF POSITIVELY:
+
+North + East + West split:
+"The great thing about your roof - we've got a north roof as well as the east and west split, which allows us to get comprehensive sunlight right from morning all the way until night time. Constant generation, constantly filling up your battery."
+
+East-only roof:
+"The great thing about it - you're going to get smacked by that morning sun."
+
+West/afternoon-only roof:
+"The best thing about that is you're going to get the full afternoon and evening generation."
+
+No matter what the roof situation is - paint it as a perfect picture. They are lucky to have this roof.
+
+"Guys, you're actually so fortunate - we're in one of the best solar climates here in [location]. You're literally going to get so much back from this system. It's perfect."
+
+Don't overdo it. Keep it conversational and genuine - you're informing them, not blowing smoke.
+
+CHECK IN ON DESIGN:
+"In terms of the positioning of the design - would you have any queries or anything you'd want to change about where the technicians have placed it?"
+
+Most will say no: "No, no, we'll leave it up to the technicians, whatever they think is best."
+
+USAGE CHART (software screenshot):
+"I'm actually going to show you exactly how much this system will generate based on your usage."
+
+Show the chart. Reference what they said earlier about their usage:
+"Remember what we were looking for - even in the winter, we wanted to cover at least [X] kilowatts. Look at this - in the lowest part of the year, you get well and truly over [X] kilowatts. Does it make sense? You can see how we specifically tailored it based on your usage to cover it. It's not just something we've done generically."
+
+Get the confirmation: "Yeah, yeah, we understand, we get it." - That's where they need to be.
+
+TRANSITION OUT:
+"Alright guys, if that's all sweet with you - let's jump into the warranties and the guarantees."
+
+EXECUTION NOTES:
+- This is not a difficult pillar - just execute it clean
+- The whole narrative: built specifically for you, tailored for your usage, not generic
+- Always reference their specific usage number when showing the production chart
+- Always find something positive to say about whatever roof configuration they have
+- Never sell a smaller system - always size for year-round coverage including winter
