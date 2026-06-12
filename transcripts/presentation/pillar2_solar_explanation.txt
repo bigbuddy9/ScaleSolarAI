@@ -1,0 +1,66 @@
+PILLAR 2: Solar Explanation
+Source: Presentation Modules
+
+GOAL: The individual clearly knows their stuff, position yourself as an expert. Tonality shifts here - you're no longer asking questions with an uptone, you're now stating things with certainty, as someone who has repeated this thousands of times.
+
+SLIDE 1 - How Solar Works:
+
+Always start a new slide with a question:
+"Guys, have you sort of got your head around how solar works now that the batteries have come into play?"
+
+Then go into the explanation:
+"Very, very simple guys, I'll run it through now. I'm not here to confuse you, I'm not here to make it complicated, I'm here to really just simplify everything and help you guys out."
+
+The explanation:
+- Sun comes up in the morning, panels on your roof get electricity from the sunlight
+- That goes to the inverter - the inverter is sort of like the brains of the equation
+- The inverter diverts power to your home during the day when you're needing it, so you don't have to pay the grid
+- Any extra you're not using, the inverter puts it into your battery so you fill it up and use it at night
+- Once your battery's full and you're not using power during the day, it sends it back to the grid so you make a little bit extra
+
+Blackout protection:
+"By the way, do you get any blackouts?" - If yes: "You won't be dealing with those anymore." Assure them that's not an issue they have to deal with anymore because of the batteries. Always sell off the batteries - it's newer, not everyone has their head around it.
+
+Feed-in reframe:
+"Back in the day, the power companies used to pay you 50 cents or 40 cents per kilowatt for your power when you sent it back. Over time, the power companies got greedy and took that right down to where it's pretty much non-existent these days. That's why now we set you up with a battery, so you can actually use your own power and make sure the power companies aren't ripping you off."
+
+Always paint the power company as the bad guy - it's a decision between paying the power company or paying an asset for their home.
+
+End of Slide 1 check-in:
+"Does that sound easy enough?"
+"By the way guys, solar is really easy. You don't have to do anything. Works all on its own. Even the battery switches over completely on its own. Really, the only thing you need to do is use a bit more power during the day. It's not impossible for you guys, is it?"
+- When they say no, it's not impossible - they're already envisioning themselves as a solar owner.
+
+SLIDE 2 - The Rebate:
+
+"By the way, you guys clued into the rebate? Would you have any idea what's going on with the current [X] rebate?"
+
+Explain the current rebate available in their area. Build a little bit of urgency on this slide. There is always a rebate available regardless of country - works for USA, UK, Australia, New Zealand.
+
+SLIDE 3 - The Finance Concept (most important of the three):
+
+Introduction:
+"Guys, this is actually the biggest misconception about solar. People think the only way to do it is to fork out a huge sum of money - like 40, 50K - you don't have to do that anymore."
+
+The key message:
+"Truth is, 99% of people, they're already paying for solar. We just use the money you're currently spending." [Use hand gesture to show redirection] "That's all that's happening here. You literally don't have to pay one cent out of pocket, just redirecting."
+
+Show the chart:
+- This is what you'd be spending if you don't go solar
+- 99% of the time you actually end up paying less than what you're currently paying on your bills
+- Zero dollars out of pocket. Nothing doesn't cost them a cent. It's less than what they already pay.
+
+Analogy reframe:
+"It's more or less like when you used to rent your home or rent your car. You switched over to a mortgage, decided you actually want to own it. Same concept here."
+
+HANDLING THE "WHAT IF WE MOVE?" OBJECTION (pre-handle it):
+"Just so you know, the loan has no extra additional costs or fees, nothing hidden if you decide to pay it out early. What happens if you decide you want to move out 3, 4 years from now?"
+
+Then show the national property report showing home value increases with solar and battery (e.g. Australian data shows 14% increase):
+"If you ever decide to sell the home, you've actually got all this extra value on your home from the solar and battery. You sell it off, all the extra profit from your home can pay off the rest of the loan, and any other profit you just keep yourself. Heaps of people have solar in their home, they sell it off midterm and it's no problem at all."
+
+Note: Find a relevant property value report for whatever country/market you're selling in. Search "solar battery property report increase in value" - there will always be data available.
+
+Always check in after explaining: "Does that concept make sense?"
+
+Once you've gone through all three slides, move on to Pillar 3.
