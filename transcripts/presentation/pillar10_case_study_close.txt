@@ -1,0 +1,169 @@
+PILLAR 10: Case Study Close
+Source: Presentation Modules
+
+The most important pillar of all 12. If you do not execute this exactly as outlined, you are killing your own chances of getting the sale. The whole point is CONTRAST - getting them to see: "Holy moly, this is actually less than my bill. This is an absolute no-brainer."
+
+BEAT 1 - Setting Up the Case Study:
+
+Coming from Pillar 9 where you've paused/frozen the screen on the green loan figures (showing they're out of pocket ~$1,054 in year one with solar only).
+
+Transition:
+"Before I go any further, I do want to bring something up in line with the recent government rebate..."
+
+"The reason I'm bringing this up is because we're currently in the process of marketing batteries in line with the government rebate. Our marketing team is actively looking for and flagging properties that qualify for a case study - which is hence why I've been telling you there's something I might be able to do."
+
+The property criteria (make it specific to THEIR property - whatever they have):
+- Minimum usage of [their usage figure]
+- North-facing roof / aerial view flagged / whatever applies
+- Paint it as: they were specifically flagged, not just anyone qualifies
+
+"I wasn't the one who flagged you - so don't ask me exactly what it is, I'm not 100% sure - but I do know I'm pretty sure this is good for you guys."
+
+Get their agreement on the photos/drone:
+"Just before I go any further - if you were to go solar, is it all good if we fly the drone up and grab a quick bird's eye pic? I think they also take one of the battery - I'll check that for you. Is that all good?"
+- They always say yes. If they hesitate: "It's like if we have 100 photos of different properties on our website, yours would probably just be one of them."
+- Always mention the NDA: "We'd never show your property details publicly - that's never going to be public information."
+
+"Now I'll need to just quickly buzz my manager and get approval. I'm not 100% sure on a couple of the specifics so I just need clarification. The only condition on your end is you'd need to give us approval to take a few photos and use your home as a case study. And of course, if you were to allow that - there would be something in it for you guys."
+
+[Make a casual joke before/during the manager call to keep rapport light - e.g. "Hopefully they don't catch John in his budgie smugglers"]
+
+Ask them to turn off their camera while you call the manager so you don't intrude on their privacy.
+
+BEAT 2 - The Manager Call:
+
+Mute. Step away for ~2 minutes.
+
+While you're gone: they're staring at the screen frozen on the solar-only figures (out of pocket $1,054/year). This is intentional. They fixate on those numbers. The contrast is about to be dramatic.
+
+BEAT 3 - Coming Back With Good News:
+
+Return with energy:
+"Hey guys, you still there? Sorry, took a little bit longer than expected - my manager was just taking a look at your property. But I've got some good news for you guys."
+
+"My manager approved it. You've been flagged - [property-specific reason, reiterate what you told them before]. So luckily you do meet the criteria."
+
+"Now there are a couple of conditions I want to run by you, just so you're aware."
+
+Battery allocation script:
+"The company has allocated about 100 kilowatts of total battery storage for this marketing initiative. They're looking for properties with [their criteria]. We've got 10 battery modules left in our warehouse. That's enough for your property."
+
+[Always say just a couple more than what they need]
+"Do you have any issue with us getting some photos? No? Perfect. Let me show you what battery we'll be giving you."
+
+BEAT 4 - The Battery Reveal:
+
+Run through the battery quickly - high impact, don't over-explain. Pick 2-3 crisp points (marine grade, warranty, reliability). Keep it moving.
+
+BEAT 5 - The Pricing Reveal and Calculator Update:
+
+"Guys, because your system is [X] kilowatts, it actually meets the minimum threshold which allows us to cover the first $10,000 for a 10-kilowatt battery completely for free. Installation, labour, warranties - all covered."
+
+[Note: You're simply up-pricing the battery and then "discounting" it back. The net result is the final repayment is still less than their power bill. That's all that matters.]
+
+Now update the calculator:
+
+"If we add the battery to what we're using during the day - remember, during the daytime we're only covering your solar. If we want to capture your night time usage (the other 60%), we add the battery."
+
+Walk through the maths with them:
+- Add 10 kWh to the daily self-use figure
+- "But we can't add the full 10 kWh - on average across the year you'll only use about 80% of your battery storage. We have to stay conservative. So 80% of 10 is 8. We take 2 off - that becomes [X + 8]."
+- "We're almost at your usage of 28 kilowatts. What would we need to take [current number] above 28?"
+- They say: "Another 10 kilowatts"
+- "Exactly. So what I'd actually recommend - especially considering you only get one shot at using this rebate - is the 20 kilowatt battery."
+
+Update the figures. Always undercut slightly (never say you're covering 100% of usage - cap at about 85%):
+"I always like to stay really conservative with our numbers - so I'll put in 25 out of 28. That way we know we're covered no matter what."
+
+BEAT 6 - The Contrast Reveal:
+
+Update the calculator with battery + discount applied.
+
+React genuinely:
+"Wow. Guys - act shocked. I've done a lot of these. This is... this is pretty good. Normally doesn't look this good because we don't have a case study in play."
+
+Walk through the new figures:
+- "In your first year with solar AND battery, you're actually $261 in credit."
+- "All you pay per month: $355. Per year: $4,359."
+- "How much was your bill going to be next year? $4,320."
+- "That is LESS than what you're currently paying on power."
+- "And this doesn't go up every single year like your power bill does. You've locked yourself in. You know exactly what comes out. $82 a week. That's your electricity - sorted."
+
+Show them a bill in credit:
+"This is actually what your bill is going to start to look like - a little credit on your bill. Not only are we covering your electricity usage, but in the summer months you're generating way more than you use and selling it back to the grid. If you're generating 63 kilowatts in December and only using 28 - what do you think is going to happen?"
+[They get it]
+"And we don't even count that in the calculations. That's just a bonus."
+
+BEAT 7 - Stack the Value Points (bang, bang, bang):
+
+Run through each quickly:
+- Blackout protection: "Remember the battery - you're protected from blackouts. We covered that."
+- Summer profit: "Extra generation in summer = credit on your bill. Not counted in calculations - added bonus."
+- After loan term: "After 15 years - no additional costs. No bigger bill next year. You paid off an asset on your home."
+- No lock-in: "If you move in 5 years - no penalties. Pay off the remainder, sell the home, keep all the extra profit. Done."
+
+Honest disclaimer (100% guarantee protection):
+"One thing I do want to preface - everything here is guaranteed based on you using the same amount of power we built the system off. Your exact average from the past year - the 28 kilowatt figure. We've given you a buffer, but we can't do anything if you decide to triple your usage and mine Bitcoin or solar a theme park in the backyard."
+[They laugh - of course they understand]
+"It just means he's being transparent and honest. They appreciate it."
+
+BEAT 8 - Pre-handle the Price Objection (before they raise it):
+
+"Guys, as I said - we're not going to be the dirt cheapest in the world. If you want, you can go shop around, find something a little bit more competitive. The thing is - it's not going to come with all the warranties. It's not going to come with the number one rated products. It's not going to come with [list their key differentiators]. It's crazy to me how some people just settle for rolling the dice and gambling when it comes to something this important."
+
+[They think: "That's not me. I don't gamble. I make smart investments."]
+
+"Obviously I know you guys aren't going to make that decision - you're well-informed individuals. You've seen all the math. It makes sense. I just... honestly, when the math is this clear, it confuses me when people even consider going cheap."
+
+BEAT 9 - The Research Pre-frame:
+
+If they mention wanting to do more research:
+"Guys, this is exactly why we take you through everything in this much detail. We walk you through the products, the warranties, the guarantees, the math, the system design, the ROI - all of it. The due diligence has been done for you. Everything has been researched specifically for your situation, your property, your usage, your numbers. That's why by the time you get to the end of it, it's actually very simple - all the background work is already done for you."
+
+BEAT 10 - Check In Before Soft Close:
+
+"Before we keep going - do you have any other questions? I just want to make sure I've clarified everything for you."
+
+Answer all questions. Make sure they're 100% following. If they look overwhelmed - slow down, re-explain. An overwhelmed prospect says "just send it through, I'll think about it." Do not let that happen.
+
+BEAT 11 - THE SOFT CLOSE (most powerful moment):
+
+"Alright guys, looking at these numbers - do you see any way that this doesn't benefit your current scenario? Like, you can be honest - I prefer you to be honest with me. I'm here to help."
+
+They will say: "No, I don't see any way it doesn't benefit us."
+OR they'll swerve with another question - answer it, then come back to the same close.
+
+After they confirm it benefits them:
+"Why do you say that?"
+[Get them to elaborate - get them to say in their own words why it makes sense]
+
+"Yeah, I'd actually agree with you there." [Explain why you agree]
+
+KEY PRINCIPLE: It's not you telling them the system is good. It's THEM saying it's good, and you agreeing. That is infinitely more powerful. They've sold themselves.
+
+If one partner answers, check with the other:
+"Catherine, do you see any way it doesn't benefit your situation? I just want to make sure you're both on the same page."
+Get both partners to say it out loud.
+
+BEAT 12 - THE CLOSE:
+
+"All right guys - the most important thing for us to do now is complete the order form so we can set aside the battery for your property."
+
+"Just to let you know - everything would be conditional on finance approval, which shouldn't be an issue if you have a good credit rating and no defaults."
+[Make a joke - "As long as you don't have a criminal record you haven't been telling me about, John..." - they laugh, you're still in rapport going into the final question]
+
+THE FINAL QUESTION - casual, slow, no pressure:
+"Are you happy with that?"
+
+That's it. That simple. Casual. Calm. Structured.
+They look at each other: "Yeah... yeah, I don't see why not."
+
+THAT IS THE CLOSE. Once they say that - you go straight into the order form and then finance (Pillar 11).
+
+EXECUTION NOTES:
+- Casual above everything. Closer's breath kills deals. Never push, never pressure.
+- The contrast is everything - solar-only numbers vs battery+discount numbers. The screen being paused on the solar-only figures while you call the manager is not accidental.
+- Both partners need to say the soft close out loud - don't skip the second partner
+- Practice beat by beat. Know the order. Know the exact script.
+- If they get overwhelmed at any point - slow down, check in, re-explain. Confusion = "I'll think about it."
+- The aha moment is when they genuinely realise: "I can pay LESS than my current power bill." That's when the sale is made. Everything you've done in Pillars 1-9 leads to this moment.
