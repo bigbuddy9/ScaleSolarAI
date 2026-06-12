@@ -1,0 +1,129 @@
+PILLAR 9: Solar Savings Breakdown
+Source: Presentation Modules
+
+This is where you actually get the sale. Pillars 9 and 10 are the two most crucial closing pillars.
+
+GOAL: The math has been done specifically for their home. They understand the solar numbers clearly. When the battery reveal comes (Pillar 10), they don't need to re-understand anything - they just need to decide if it makes sense.
+
+TRANSITION IN (from Pillar 8 power bill pain):
+Move straight from the power cost table down to their custom solar system in the calculator.
+
+BEAT 1 - Build the Custom System in the Calculator:
+
+Re-establish it's personalised:
+"Guys, what's your postcode? We just need it because it calculates the exact sun hours per day. As you know, everything we do here has to be very meticulous."
+
+Enter the system details from their design:
+"Remember - we've got the 440W Longi panels. Let's look at your design together."
+Count panels per roof face with them watching:
+"On the north we've got 14, on the east we've got 5, on the west we've got 8."
+Enter tilt angle:
+"Do you know roughly what tilt your roof is at? Is it just sort of an average roof?"
+[Check on Google Maps if needed. Note: tilt affects production - 30 degrees vs flat can make a meaningful difference. For Northern Hemisphere - logic is flipped: flat gets more production on south-facing roofs.]
+
+BEAT 2 - Daily Usage (set this up carefully):
+
+Re-anchor their usage number:
+"Guys, do you remember - round about what was your average daily usage? Was it around 26 kilowatts?"
+[Get them to re-confirm - checks they're still engaged]
+
+Self-use split (solar only, no battery):
+"We're going to look at just solar first. I might have something regarding the battery - so let's run through all the numbers with solar first."
+
+"How much power do you reckon you use during the day?"
+
+IMPORTANT: You want them to say a LOW number. Cap it at 50/50 maximum. Why? If you blow out the solar numbers too high, the battery contrast won't land as well.
+
+Guide them to the right split:
+- If both work during the day, out of the house: "Probably more like 30-70 then?"
+- Typical household: "40-60 is what you normally see"
+- Absolute max you accept: 50-50
+
+Then calculate:
+"Okay so 40% of 28 kilowatts is 11.2."
+Enter 11 as the self-use figure.
+"What we've just done - we've popped in the 40% of your power you'll be using during the day, because that's what the solar is going to cover. The rest of it, without a battery, you wouldn't be able to capture. Does that make sense?"
+
+BEAT 3 - Enter Their Rates:
+
+"So we had that 41 cent rate plus GST - so 45 cents per kilowatt hour."
+Enter their exact rates. Feed-in tariff: 0.5 cents average if they don't have one.
+
+BEAT 4 - Show the Production Chart:
+
+"Guys, remember how we said your usage was going to be 28 kilowatts a day? Look at this - even in the lowest months of the year, the system covers you. Just like we showed you in the design."
+
+Then paint the summer picture:
+"And you know what's going to happen during the hotter months - January, February, December, most of the year outside of winter? You're actually going to have extra power. You'll be selling it back to the grid, making a little bit of extra profit. Your bill's going to be in credit."
+[Show an example of a bill in credit on screen]
+"This is probably what your bill is going to end up looking like. Now keep in mind - we can't factor all this extra credit into the calculations. But that's a little added bonus you're going to get."
+
+BEAT 5 - The Costs and Government Funding:
+
+Run through all line items:
+- Panels: $X
+- Inverter: $X
+- All components
+- Total system value: $X
+
+Then the government funding:
+"Even just for solar, we're at a really good time - you've got $1,300 of government funding coming off your system right now."
+
+Build urgency:
+"As I mentioned though - I can't guarantee that if you come back two or three months from now that's going to be the same. I've had customers who wanted to take a sec, pushed it off a couple months, came back upset that the price jumped up. That's not me doing anything - that's just the nature of the government incentives."
+
+BEAT 6 - The ROI Breakdown:
+
+"Don't plug into the payment plan yet" - go straight to the ROI graph first.
+
+Walk through:
+- "In your first year, you're getting an 8% ROI immediately."
+- "And the thing about solar is that ROI goes up every single year - because it's offsetting the power increases. You're actually hedging yourself against inflation."
+- "Guys, just from solar alone you'd save $2,477 off your bill. How much was your bill? About $4,000 a year."
+- [Note internally: That gap is what the battery will fill - hold this for Pillar 10]
+- "Even with just solar - over 10 years you're saving $34,000. That's a 110% return on investment."
+- Flip back to power cost: "As opposed to spending $57,000 on power. At least you've got this option."
+
+Make sure they understand:
+- What the ROI graph means
+- What the estimated savings figure means
+- How the payback period works ("After about year X, you're getting your money back and you've got the next 15 years free")
+
+BEAT 7 - The Cash or Green Loan Question:
+
+"Hey guys - just suppose you were going to go ahead with this, would you be looking more at doing cash or using the green loan?"
+
+No wrong answer - both are perfect:
+- Cash: "Honestly, that's the best way to do it."
+- Green loan: "Yeah, that's the best way. That's how everyone does it - because you pay nothing out of pocket."
+- Don't know / unsure: Default to green loan.
+
+If green loan - sell the loan provider's key points:
+- No early exit fees
+- No penalties for paying off early
+- Fixed/stable interest rate
+- Whatever the key points are for your specific provider (Parker Lane for Australia, or equivalent)
+
+BEAT 8 - Show the Green Loan Numbers:
+
+"Guys, you can see in your first year, you're out of pocket about $1,054 from the green loan. That's not too bad - and you can see you're still saving X amount after X years."
+
+Then set up the transition:
+"But remember - our goal was to make it so you paid nothing out of pocket at all. That's what we're going to need the batteries for."
+
+TRANSITION TO PILLAR 10:
+"You guys ready to jump into the batteries?"
+[Yes - they're keen]
+
+IMPORTANT: Before moving to Pillar 10 -
+- If in person: leave laptop on the green loan screen
+- If on Zoom: pause the screen on the green loan numbers
+- When you come back and update to include the battery, the contrast will be much more dramatic and impactful
+
+EXECUTION NOTES:
+- Check in constantly - they need to understand every figure before you move forward
+- The whole point of solar-only is to set up the battery contrast in Pillar 10
+- Never let them get confused - if they don't understand a number, stop and explain it
+- The self-use split is a key lever - keep it at 30-50% max, never higher
+- Always re-reference their specific numbers (usage, bill amount, rates) throughout
+- The moment they're clear on everything and keen to see the battery numbers - that's your green light for Pillar 10
