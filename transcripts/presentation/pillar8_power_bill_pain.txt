@@ -1,0 +1,94 @@
+PILLAR 8: Power Bill Pain
+Source: Presentation Modules
+
+This is where you start to make the sale. Pillars 8, 9, and 10 are the most crucial closing pillars. Your mindset: follow the game plan exactly.
+
+GOAL: They finish this pillar thinking: "I had no idea it was this bad. There's no way I'm going to keep paying this for 25 years - especially when there's a much better option."
+
+No one acts without pain. Current pain + future pain = action.
+
+TRANSITION IN (from Pillar 7 warranties):
+"Alright guys, you ready to jump into all the numbers?"
+[Yes]
+"Perfect. First thing we need to do is actually educate you on what's been happening with the power market."
+[Intrigue tonality - they think: what HAS been happening?]
+
+BEAT 1 - The Power Market:
+
+"Quick question - do you even know what's happening with the power market? Do you know why bills have literally doubled in the past 10 years?"
+
+They won't know. Answer:
+"Honestly guys, it's just because the power companies are looking to make more and more profit. I wish I could tell you some elaborate scheme but it really comes down to that."
+
+Walk through the power company breakdown (use AGL data for Australia, or equivalent publicly disclosed data for UK/US/NZ):
+- Every $100 you spend on your AGL bill, only $12 actually goes towards your electricity
+- Theoretically your bill could be 88% less and you'd get the exact same power
+- The rest: profit, network costs, advertising/marketing, electricity generation, tax depreciation
+- They are literally just extracting profit
+
+"And by the way - this is just AGL. They're the only ones who actually disclose this public information. If they're comfortable showing you this, imagine what some of the other massive corporations who aren't comfortable showing you - what are they hiding? It's almost certainly worse."
+
+[For non-Australian markets: plug in a local major power company that discloses public financial information. If none available, reference AGL and note it's similar to major power companies globally.]
+
+BEAT 2 - Their Actual Bill (amplify the pain):
+
+Pull up their bill. Analyse it. Break it down. Amplify every painful detail - but keep it conversational, not over the top.
+
+Examples of what to highlight:
+- "Far out - $1,300. Guys, you're getting stung a bit."
+- "$0.36 rates... actually wow, they bumped it up to $0.41. Did they even let you know that was happening?"
+- "No? They just put it up. And there's another price increase coming as well."
+- "You see what they do here guys - they pump it up without you knowing. They've done it to both your supply rate and your usage rates."
+- "Plus GST - you're actually paying literally 45 cents per kilowatt hour. That is not ideal at all."
+
+If bill has peak rates, demand charges, other fees - highlight all of it. Show them they're paying way too much.
+
+"I'd love to tell you there's another power company I can move you to that'll put you in a better situation - but unfortunately that's not the truth. All these power companies run the same playbook."
+
+BEAT 3 - The Calculator (future pain):
+
+Open the savings calculator. Enter: customer name, address, annual electricity spend.
+
+"Guys, what did you roughly spend on power in the past year total?"
+[Get specific - this feeds the guarantee calculations]
+
+Also ask their tax bracket - shows how much they have to earn just to cover their power bill.
+
+Walk through the numbers at 8% annual price increase (based on industry forecasts and past decade of recorded price changes - conservative, actual is often higher):
+
+Example with $4,000/year bill:
+- Year 1: $4,000 → next year, same usage, you're paying an extra $320 straight to AGL's bank account
+- Year 5: $4,000 has gone up to $5,400
+- Year 10: nearly doubled to $8,000
+- "It doubled over the past 10 years. It is going to double over the next 10 years. That's just the reality."
+
+Show cumulative totals:
+- "Over the next 10 years, you're going to spend $57,000 on power."
+- "Over the next 25 years, you'll need to earn $417,000 before tax just to pay your power bills."
+
+If they ask about the rate: "This is going up at 8% annual price increase based on literal industry forecasts and the past decade of recorded price changes. We actually undershoot it slightly just to make sure we're using conservative numbers."
+
+THE STARK CONTRAST CLOSE:
+
+"I assume you don't want to fork over another [X amount] over the next 15 years if you don't have to."
+[No, far out, no we don't.]
+"The good thing is - there's no reason you would have to anymore. Let me show you."
+
+Frame it simply:
+"In one scenario, you spend that money on a system that's paying you back for the next 25 years. In the other, you just get a bigger bill next year. And the year after. And the year after that. There's really no middle option here. You're paying that money one way or the other."
+
+Don't push, push, push to the point where they know you're trying to extract an answer. Establish that what's happening now is clearly illogical and there is a much better approach. Let the logic do the work.
+
+If done effectively, they should be sitting there thinking: "Far out. I had no idea I'd be spending 57 grand on power in the next 10 years. Or that I'd need to earn 155 grand just to cover my bills."
+
+TRANSITION TO PILLAR 9:
+"Well guys, the thing is - you don't have to. Because we can show you another way."
+→ Move to Pillar 9: Solar Savings Breakdown
+
+EXECUTION NOTES:
+- Stay in rapport the entire time - you're informing and educating, not attacking
+- Amplify pain legitimately through real numbers, never exaggerate
+- The biggest motivator is FUTURE pain, not just current pain
+- Every $300 bill today = $600 bill in 10 years - this always doubles regardless of starting point
+- The calculator is your most powerful tool in this pillar - be precise with their actual numbers
+- Keep it conversational - you're on their side, frustrated on their behalf about the power companies
