@@ -1,0 +1,112 @@
+PILLAR 7: Guarantees and Warranties
+Source: Presentation Modules
+
+GOAL: Prospect comes out of this pillar thinking: "We are completely protected no matter what. This company has a robust set of guarantees and warranties that ensures we're safe in any situation." Every warranty pre-handles a specific objection or concern so that at the close, the only logical option is to move forward.
+
+OPENING (always say this exactly):
+"Alright guys, these are the warranties. They're actually pretty important - so you should listen in here."
+[Get them leaning in]
+"By the way, all of these are exclusive for 25 years. This is literally the biggest thing that separates us from every other company out there. This is the reason people can do this with absolutely no stress at all - knowing no matter what happens, we've got them covered."
+"I'm going to walk you through each one of these one by one. If you have any questions at all, please ask me. I want to make sure you really clearly understand each one, because this is what's going to be protecting you for the next 25 years."
+
+THE 6 WARRANTIES (go through in this order):
+
+---
+
+WARRANTY 1: Active Monitoring Service
+
+Read the warranty, then summarise:
+"Guys, pretty much all this means is we will actually know before you if anything ever goes wrong."
+
+"There's never going to be a situation where you wake up one day and find the system's been broken for the past week and you didn't even realise. We're 100% monitoring your system. There's no situation where you wake up six months from now realising the system has been broken and you get a nasty surprise on your bill - because we're all over it."
+
+What this actually is: The inverter manufacturer provides an app. You get master/ultra access where you can check all systems at any point. Frame it as an exclusive warranty - this is how the top companies doing $100M+ present it.
+
+Also mention: They get their own app to monitor their system themselves.
+
+---
+
+WARRANTY 2: X-Day Downtime Guarantee
+
+[X = whatever number of days you can realistically get out to a customer - e.g. 6 or 7 days]
+
+"If your system has a fault, we'll diagnose it within [X] days. If we can't resolve it within that time, we cover every dollar of savings you lose until it's back online."
+
+Set X at a number you can hit 99% of the time.
+
+"Guys, what this literally means - if anything ever happens, we will be out there immediately."
+
+Note: You should actually want to get out and help your customers. Good service = referrals = organic growth on top of your sales growth.
+
+---
+
+WARRANTY 3: 100% Savings Guarantee
+
+This is the biggest one. Build mystery and intrigue:
+"This next one - this is probably the biggest one."
+
+Script (tiptoe carefully around the exact wording):
+"The 100% Savings Guarantee. Your panels are guaranteed to maintain their exact rated output for the next 25 years. If they ever fall below that, we immediately take over and cover 100% of any savings you lose while we're resolving the situation."
+
+What this actually is: It's a reframing of Longi's 25-year panel performance guarantee (88.9% output after 25 years). All savings calculations are based on that rated output - so if output drops below rated, the savings calculations become inaccurate. That's what's covered.
+
+IMPORTANT: Never say "savings are 100% guaranteed" - that gets into tricky legal territory. Frame it as the panel performance guarantee specifically.
+
+How to say it:
+"Guys, remember how I told you your panels would still be at 88.9% after 25 years? If they even drop 1.1% below that - we are the ones liable. We'll come out, assess the situation, sort everything out, make sure you're $0 out of pocket if that ever did happen. Does that make sense?"
+
+---
+
+WARRANTY 4: Hail Damage Cover
+
+Quick - they already know about this from Pillar 5:
+"Guys, I already mentioned this one - you know if hail ever happens, we cover you completely."
+
+Done.
+
+---
+
+WARRANTY 5: Ongoing Savings Optimisation
+
+"What this pretty much means - we keep optimising your savings long after install. More or less, we'll move you to the best energy retailer that's going to pay you the most and let you make the most money. We'll always give you our recommendations, keep you in the loop, because we've got the analytics and data on our side. Something comes up where you can make a bit of extra cash - we'll let you know."
+
+Their reaction: "Oh yeah, that seems chill. Thanks for that." Easy win.
+
+---
+
+WARRANTY 6: Parts and Labour Cover
+
+"If anything happens with the installation - we cover it. We make sure you're not out of pocket."
+
+Make it light: "For example, if the guys go up there and somehow manage to smash something - you're not going to be liable for any of that. That's on us entirely."
+
+What this is: Installers should be doing a good job anyway. But if something goes wrong that isn't the customer's fault (broken window, damage to property), you cover it. Framing it as a guarantee makes it feel like exceptional protection.
+
+---
+
+TIE IT ALL TOGETHER:
+
+"Remember guys - all six of these are for the full 25 years. Not for a couple of years. Not until installation. The full 25 years. Combined with the panels themselves still operating at almost 89% after 25 years - you are fully covered, top to bottom, for the long haul."
+
+HANDLING "WHAT IF WE MOVE?":
+"All of these guarantees are 100% transferable. The new owners get all of them - they plug straight into it. It actually adds real value to your home."
+
+CLOSE OUT THE PILLAR:
+"Okay, that's all six guarantees. Do you have any questions about any of them?"
+[Usually: No, they all make sense]
+"Guys, how do they all sound?"
+[Usually: Yeah pretty good / yeah good]
+"Awesome. Alright - you ready to jump to the numbers?"
+[Yes]
+"Let's do it. First thing we're going to do is educate you on what's actually been happening with power."
+→ Move to Pillar 8: Power Bill Pain
+
+EXECUTION NOTES:
+- Every warranty pre-handles a specific objection - know which one each handles
+- Active Monitoring = "what if system breaks and we don't know"
+- Downtime Guarantee = "what if something goes wrong, will they actually come out"
+- 100% Savings Guarantee = "what if the savings don't materialise"
+- Hail Cover = "what about weather damage"
+- Savings Optimisation = "will they care about us after install"
+- Parts & Labour = "what if installers damage our property"
+- Reference these back at the close when handling objections
