@@ -1,0 +1,30 @@
+name: Test Chat
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/zen-gauss-JDR0M
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install openai supabase requests
+
+      - name: Run chat test
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          AZURE_ENDPOINT: ${{ secrets.AZURE_ENDPOINT }}
+          AZURE_KEY: ${{ secrets.AZURE_KEY }}
+          EMBED_DEPLOYMENT: text-embedding-3-small
+          CHAT_DEPLOYMENT: gpt-5.4
+          CHAT_API_VER: "2024-02-01"
+        run: python test_chat.py

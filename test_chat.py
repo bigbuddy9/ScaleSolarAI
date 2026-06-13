@@ -13,7 +13,7 @@ AZURE_ENDPOINT   = os.environ["AZURE_ENDPOINT"].rstrip("/")
 AZURE_KEY        = os.environ["AZURE_KEY"]
 EMBED_DEPLOYMENT = os.getenv("EMBED_DEPLOYMENT", "text-embedding-3-small")
 CHAT_DEPLOYMENT  = os.getenv("CHAT_DEPLOYMENT", "gpt-5.4")
-CHAT_API_VER     = os.getenv("CHAT_API_VER", "2024-12-01-preview")
+CHAT_API_VER     = os.getenv("CHAT_API_VER", "2024-02-01")
 
 az = AzureOpenAI(api_key=AZURE_KEY, azure_endpoint=AZURE_ENDPOINT, api_version="2024-02-01")
 sb = create_client(SUPABASE_URL, SUPABASE_KEY)
