@@ -1,0 +1,45 @@
+PRE-CALL NURTURE
+Source: PreCall Nurture Module
+
+WHY THIS MATTERS:
+If you don't get them on the call, everything is wasted. All the ad spend, all the lead cost, all the door knocking time - gone. Pre-call nurture is what maximises your show rate.
+
+Show rate beats close rate. A 20% close rate with 90% show rate beats a 50% close rate with 40% show rate. More reps = more refinement = more sales. Fix the show rate first.
+
+This sequence has been split-tested across many different frameworks. Use it exactly as scripted. Don't improvise the framework - the order and the messaging have been meticulously crafted.
+
+FRAMEWORK OVERVIEW:
+- Multi-faceted approach: mix of SMS, email, and calls
+- Can be run by admin + sales rep, or by sales rep alone
+- Templates for all SMS and email touchpoints are in the SOP document
+
+IMMEDIATELY AFTER BOOKING:
+
+The rep who booked them (D2D setter, cold caller, or whoever) must set the tone before they hang up or walk away:
+
+1. Make them feel this appointment is important and limited
+2. Reinforce the urgency of the offer they've been offered (case study, promo, government rebate timing)
+3. Build intent - they need to WANT to show up
+
+Script principle: "This is a limited offer. We've allocated [X] for your area and we want to make sure you get it. The specialist is going to walk you through everything specifically for your property."
+
+SEND A RESOURCE IMMEDIATELY:
+Send them something to look at before the call - company background, case studies, website. Prospects who come to the call already knowing your company are dramatically easier to close. Give them something to digest so they're not walking in cold.
+
+PRE-CALL SEQUENCE (follow the SOP templates exactly):
+- Day of booking: confirmation SMS + email
+- Day before the call: reminder SMS
+- Morning of the call: reminder SMS
+- 1 hour before: final SMS reminder
+- No-show follow-up: re-engagement SMS
+
+All template scripts are in the SOP document. Copy and paste them exactly. Do not rewrite them - the wording has been tested.
+
+KEY PRINCIPLES:
+- Stick to the sequence. Consistency is what drives the show rate up.
+- Every touchpoint should reinforce: this is important, this is limited, this is specifically for you
+- The tone should match the casual/genuine energy from the booking - not corporate or robotic
+- If using an admin for the confirmations, make sure they match the tone set by the rep who booked
+
+EXECUTION NOTE:
+This is simple to execute. There's no skill gap here - just follow the framework and show rates will increase dramatically. Most teams don't do this at all or do it inconsistently. That alone is leaving 20-30% of your shows on the table.
