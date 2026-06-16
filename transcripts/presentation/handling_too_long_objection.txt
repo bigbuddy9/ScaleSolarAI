@@ -1,39 +1,37 @@
-Handling the "This Is Taking Too Long" Objection During the Presentation
+Handling "Just Get to the Price / This Is Taking Too Long"
 
-When a prospect says the presentation is taking too long or asks you to skip to the price, do NOT just jump straight to the price. First, justify why the full presentation matters. The mindset: price without context creates resistance. They need to be well-informed before they can make a 25-year decision.
+When a prospect pushes to skip ahead and just get the price, do NOT jump to it. The core frame: jumping to the end would be doing them a disservice. You're informing them because this is a long-term, 25-year decision — and you can't make a decision like that properly without the full picture. Be respectful and cognizant of their time, offer to speed up, but hold the frame that this stuff matters.
 
-PREVENT IT UP FRONT - Set the time frame at the start:
-Before the presentation even begins, lock in the time expectation so "this is taking too long" rarely comes up. Confirm they have 60-90 minutes free.
+THE FLOW:
+1. Hold the frame — skipping to price would be a disservice to them
+2. Check the time they were given for the appointment, so they're not caught out uninformed
+3. Get into it — justify why the parts matter, then move forward
 
-LIVE EXAMPLE - Jesse setting the time frame at the start of a call:
+LIVE EXAMPLE — Jesse, real call (one unique example — take the principles, not the exact wording):
 
-Jesse: "So, like I said, they must have told you 90 minutes, did they tell you 90 minutes?"
-Prospect: "No, 60 minutes."
-Jesse: "They sort of said 60 to 90, because that's how long it takes. Do you have 60 to 90 today? Because if not, this stuff's very important, you should be well-informed. So do you have the full 60? I've been told 60, depending on how many questions we have. It does always go 60 to 90 - that's what you should allow. If you don't have that time free, we can reschedule for another time."
+Prospect: "No, no, no, just get to the point. I have other things I have to do. How much do I have to pay you now?"
 
-Key: anchor 60-90 minutes as normal and required, justify it ("this stuff's very important, you should be well-informed"), and offer to reschedule rather than rush. Getting this agreement up front means if they later say it's running long, you can point back to the time they already committed to.
+Jesse: "No, Ted, if I just jumped to the price and sent you a quote, I would be doing you a disservice, because we have to go through all of this stuff to make sure you're well informed. You wouldn't want to just jump into a decision and not make it properly. The easiest thing for me to do is just jump and send you the price — that's the easiest thing — but it would be doing you a disservice. It would actually not be in your best interest."
 
-LIVE EXAMPLE - Jesse's exact words when they say it's taking too long mid-presentation:
+Jesse (checking the time): "They must have told you 90 minutes? They sort of said 60 to 90, because that's how long it takes. Do you have 60 to 90 today? Because if not, this stuff's very important, you should be well-informed. If you don't have that time free, we can reschedule for another time."
 
-"Of course, I can speed up parts of it, but there's certain parts where we must go through as we're going to look at using some government funding, so you need to be well-informed. This is something where it has the potential to save you $250,000 over the next 25 years, genuinely, and we guarantee that.
+Prospect: "I think if you can speed this up, that'll be good." (Note: they won't always offer this — unique to this call.)
 
-So you need to make sure you're well-informed. You can't just jump into a decision like that, get the price, and think, okay, yep, let's go. You actually need to know who the company is that we're picking. Because if you don't know them and you're not confident in them, there's no point doing it.
+Jesse: "Of course, I can speed up parts of it, but there's certain parts we must go through as we're going to look at using some government funding, so you need to be well-informed. This is something that has the potential to save you $250,000 over the next 25 years, genuinely, and we guarantee that. You can't just jump into a decision like that, get the price, and think 'okay, yep, let's go.' You actually need to know who the company is that we're picking. Because if you don't know them and you're not confident in them, there's no point doing it. We're about to jump into the products, which I assume is what you want to see. So if you just bear with me for a couple minutes, we'll jump straight into the products, but this stuff is very important. Please don't get it twisted, or else we wouldn't go through it. Because we actually care about our customers — we care about making sure that you are well informed."
 
-Like I said, I'm happy to - guys, this charity work stuff, I'm happy to jump past it, but it shows you who our company is, which is quite important. And we're about to jump into the products, which I assume is what you want to see. So if you just bear with me for a couple minutes, we'll jump straight into the products, but this stuff is very important. Please don't get it twisted, or else we wouldn't go through it. Because we actually care about our customers. We care about making sure that you are well informed."
-
-KEY MOVES IN THAT SCRIPT:
-1. Agree you can speed up - show respect for their time, don't resist
-2. Justify the parts you can't skip (government funding, who the company is)
-3. Anchor the stakes: 25-year decision, potential $250,000 savings, guaranteed
-4. Frame it as caring about THEM being informed, not you wasting time
-5. Offer to skip the soft stuff (e.g. charity work) but explain why it matters
-6. Tell them what's coming next (the products - what they want to see)
-7. Ask for a couple more minutes of patience
+KEY MOVES:
+1. Frame skipping as a DISSERVICE to them — not you wasting time, you protecting their decision
+2. Anchor the stakes: 25-year decision, potential $250,000 savings, guaranteed
+3. Be respectful and cognizant of their time — offer to speed up, but hold the frame
+4. Check/lock the time expectation (60-90 min) and offer to reschedule rather than rush
+5. Justify the parts you can't skip (government funding, knowing who the company is)
+6. Tell them what's coming next (the products — what they want to see)
+7. Ask them to bear with you for a couple minutes
 
 Reversing the Order (Hard Cases):
-Sometimes you can read the room and know the prospect will not be open to any conversation until they see the price. Use critical thinking - read the individual. In those cases you can reverse the order: jump to the price first, walk them through the savings breakdown, then go back and complete the rest of the presentation. It's a hard balance but you figure out which type you're dealing with.
+Sometimes you read the room and know they won't engage until they see the price. Use critical thinking. You can reverse the order: show price first, walk them through savings, then go back and finish the presentation. Hard balance — figure out the type of person you're dealing with.
 
 What NOT to do:
-- Do not blindly skip to price without any justification
-- Do not ask them to evaluate price without context (price without savings = resistance)
-- If you do show price early, immediately follow with the savings so they never sit on the number alone
+- Don't blindly skip to price without justification
+- Don't ask them to evaluate price without context (price without savings = resistance)
+- If you show price early, immediately follow with savings so they never sit on the number alone
